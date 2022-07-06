@@ -1,0 +1,11 @@
+package com.footzone.footzone.enums;
+
+public enum WeekDay {
+    MONDAY,
+    TUESDAY,
+    WEDNESDAY,
+    THURSDAY,
+    FRIDAY,
+    SATURDAY,
+    SUNDAY
+}
